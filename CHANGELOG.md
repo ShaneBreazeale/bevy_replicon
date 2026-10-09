@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Update to Bevy 0.20.
 
+### Fixed
+
+- Panic on component removal when the server and client are running in the same app.
+
 ## [0.44.3] - 2026-10-06
 
 ### Fixed
